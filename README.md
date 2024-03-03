@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a personal project<br>🤝 I’m looking for help with JavaScript<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about my tech stack<br>⚡ Fun fact i think Coding is a flex
+🔭 I’m currently working on a personal project<br>🤝 I’m looking for help with Javascript<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about my tech stack<br>⚡ Fun fact i think Coding is a flex
 
 
 ## 🌐 Socials:
